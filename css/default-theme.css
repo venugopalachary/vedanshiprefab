@@ -1,0 +1,179 @@
+/* Color Theme File */
+
+a,
+.theme_color,
+.btn-style-one:hover,
+.btn-style-six:hover,
+.social-icon-one li a:hover,
+.social-icon-two li a:hover,
+.social-icon-four li a,
+.news-block-two .inner-box .lower-box h3 a:hover,
+.main-footer .footer-bottom .foter-nav li a:hover,
+.main-footer .link-widget ul li a:hover::before,
+.testimonial-block .inner-box .designation,
+.main-header .info-box .icon-box,
+.services-block-three .inner h3 a:hover,
+.header-top .top-right .social-links a:hover,
+.services-block-two .inner-box .read-more,
+.news-block .inner-box .lower-box h3 a:hover,
+.news-block .inner-box .lower-box .read-more,
+.services-block .inner-box .lower-content h3 a:hover,
+.project-section .filters .filter-tabs .filter.active,
+.project-section .filters .filter-tabs .filter:hover,
+.news-block .inner-box .lower-box .share-icon:hover,
+.main-footer .post-widget .post-block .inner h3 a:hover,
+.team-member .inner-box .lower-box h3 a:hover,
+.services-block-four .inner-box .lower-box .read-more,
+.services-block-four .inner-box .lower-box h3 a:hover,
+.list-style-one li:before,
+.social-icon-four li a:hover,
+.news-block-three .inner-box .lower-box .share-icon:hover,
+.services-block-five .inner-box h3 a:hover,
+.news-block-three .inner-box .lower-box h3 a:hover,
+.news-block-three .inner-box .lower-box .read-more,
+.categories-blog .inner-box ul li.active a::before,
+.categories-blog .inner-box ul li.active a,
+.categories-blog .inner-box ul li a:hover::before,
+.categories-blog .inner-box ul li a:hover,
+.news-block-four .inner-box .lower-box h3 a:hover,
+.blog-single .inner-box .lower-box .post-share-options .tags a:hover,
+.news-block-four .inner-box .lower-box .read-more,
+.news-block-four .inner-box .lower-box .share-icon:hover,
+.sidebar-page-container .comments-area .comment .comment-reply,
+.sidebar .popular-posts .post a, .sidebar .popular-posts .post a:hover,
+.testimonial-widget .widget-content .inner .author .author-inner .designation{
+	color:#b3c89f;
+}
+
+/*Background Color*/
+.btn-style-one,
+.btn-style-two:hover,
+.main-header .nav-outer,
+.services-title .separator:before,
+.services-title .separator:after,
+.services-title .separator .dott,
+.main-header .header-lower .bg-box,
+.services-block .inner-box:hover .lower-content h3:after,
+.sec-title .separator .dott,
+.sec-title .separator:before,
+.sec-title .separator:after,
+.btn-style-four:hover,
+.clients-section .title-box .separator:before,
+.clients-section .title-box .separator:after,
+.clients-section .title-box .separator .dott,
+.news-block .inner-box:hover .lower-box:after,
+.news-block .inner-box .image .post-date,
+.full-width-section .outer-box .title-column .content .separator:before,
+.full-width-section .outer-box .title-column .content .separator:after,
+.services-block-two .inner-box:hover,
+.sidebar .popular-tags a:hover,
+.sidebar-title .separator:after,
+.sidebar .search-box .form-group button,
+.sidebar-title .separator .dott,
+.contact-info-widget .inner-content,
+.services-block-five .inner-box:hover .icon-box,
+.services-single .inner-box .lower-content .separator:after,
+.services-block-four .inner-box:hover .lower-box:after,
+.error-section .inner-container .home-btn:hover,
+.news-block-two .inner-box:hover .lower-box:after,
+.main-menu .navigation > li > ul > li:hover > a,
+.news-block-four .inner-box .image .post-date,
+.project-single-section .content-column .inner-column .text .separator:after,
+.news-block-three .inner-box:hover .lower-box:after,
+.category-blog li.active a, .category-blog li a:hover,
+.main-menu .navigation > li > ul > li  > ul > li > a:hover,
+.news-block-four .inner-box:hover .lower-box:after,
+.main-header .sticky-header .main-menu .navigation > li.current-menu-item > a,
+.styled-pagination .inner-box li a:hover, .styled-pagination .inner-box li a.active,
+.sidebar-page-container .group-title .separator:after,
+.main-slider .tparrows.gyges:hover,
+.contact-section .form-column .form-title .separator:after{
+	background-color:#b3c89f;
+}
+
+.call-to-action,
+.main-footer .footer-widget .footer-title .separator:before {
+	background-color:#e98135;	
+}
+
+
+/*Border Color*/
+
+.btn-style-one,
+.btn-style-two:hover,
+.btn-style-four,
+.btn-style-four:hover,
+.sidebar .popular-tags a:hover,
+.main-menu .navigation > li > ul,
+.contact-info-widget-two .inner-content,
+.services-block-five .inner-box:hover,
+.blog-single .inner-box .lower-box .text blockquote,
+.main-header .header-upper .search-box-outer .dropdown-menu,
+.main-header .header-upper .search-panel input:focus,
+.main-header .header-upper .search-panel select:focus,
+.main-menu .navigation > li > ul > li > ul,
+.error-section .inner-container .home-btn:hover,
+.clients-section .sponsors-outer .image-box:hover,
+.main-footer .footer-form .form-group input[type="text"]:focus,
+.main-footer .footer-form .form-group input[type="tel"]:focus,
+.main-footer .footer-form .form-group input[type="email"]:focus,
+.main-footer .footer-form .form-group textarea:focus,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group textarea:focus,
+.contact-form input:focus, .contact-form select:focus, .contact-form textarea:focus,
+.project-section .filters.style-two .filter-btns .filter.active,
+.project-section .filters.style-two .filter-btns .filter:hover,
+.styled-pagination .inner-box li a:hover, .styled-pagination .inner-box li a.active{
+	border-color:#b3c89f;
+}
+
+/*RGBA Color Light*/
+.gallery-block .inner-box .image .overlay-box,
+.news-block-two .inner-box .image .overlay-box,
+.services-block-four .inner-box .image .overlay-box,
+.gallery-block-two .overlay-box .overlay-inner{
+	background-color:rgba(250,41,100,0.75);
+}
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#232323;
+		background-color:#232323 !important;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+	.header-style-two.inner-header .main-menu .navigation > li > a{
+		background-color:#232323;
+	}
+	
+	.main-menu .navigation > li.home .fa,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
+		color:#ffffff;
+	}
+	
+}
